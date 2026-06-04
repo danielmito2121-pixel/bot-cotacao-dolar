@@ -5,8 +5,8 @@ import asyncio
 from telegram import Bot
 
 # --- CONFIGURAÇÕES ---
-TOKEN = "8778457626:AAFFzlmO6XakEknfIWgB3dcAPWQhCtEsIfc"
-CHAT_ID = "6773497676"
+TOKEN = "token"
+CHAT_ID = "id"
 
 # --- FUNÇÕES ---
 def buscar_cotacao():
